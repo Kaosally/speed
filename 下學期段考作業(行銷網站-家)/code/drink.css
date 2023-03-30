@@ -1,0 +1,45 @@
+body{
+    background-color: rgb(188, 188, 212);
+    color: rgb(25, 123, 156);
+}
+.h2-1{
+    display: none;
+}
+.h2-2{
+    font-size: 50px;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    left: 252px;
+    color: black;
+}
+.h2-3{
+    color: red;
+}
+.section-1{
+    background-image: url(../img/端飲料.jpg);
+    background-size: 100%;
+    height: 311px;
+    position: relative;
+    opacity: 0.5;
+}
+.section-2{
+    position: absolute;
+    top: 100px;
+    left: 632px;
+}
+.h2title{
+    color: blue;
+}
+ul li{
+    display: inline-block;
+}
+a{
+    text-decoration: none;
+    color: rgb(156, 12, 137);
+}
+.container{
+    position: absolute;
+    top: 1147px;
+    left: 1195px;
+}
